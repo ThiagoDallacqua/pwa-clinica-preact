@@ -23,6 +23,7 @@
     "identity-obj-proxy": "^3.0.0",
     "if-env": "^1.0.0",
     "jest": "^21.2.1",
+    "preact-async-route": "^2.2.0",
     "preact-cli": "^2.1.0",
     "preact-render-spy": "^1.2.1"
   },
